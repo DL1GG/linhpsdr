@@ -1,5 +1,10 @@
 # LinHPSDR
 
+### Goals of this particular fork
+
+* Fixing open issues by peeking into G0ORX's repository and others pull requests
+* Some redesign of the GUI
+
 ### Development environment
 
 Development and testing has been run on Ubuntu 17.10 and Ubuntu 18.04. If run on early versions there may be a problem with GTK not supporting the gtk_menu_popup_at_pointer function vfo.c. For information on MacOS support see [MacOS.md](./MacOS.md).
