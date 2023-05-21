@@ -7,22 +7,13 @@ Development and testing has been run on Ubuntu 17.10 and Ubuntu 18.04. If run on
 ### Prerequisites for building
 
 ```
-  sudo apt-get install libfftw3-dev
-  sudo apt-get install libpulse-dev
-  sudo apt-get install libsoundio-dev
-  sudo apt-get install libasound2-dev
-  sudo apt-get install libgtk-3-dev
-  sudo apt-get install libsoapysdr-dev
+  sudo apt-get install libfftw3-dev libpulse-dev libsoundio-dev libasound2-dev libgtk-3-dev libsoapysdr-dev
 ```
 
 ### Prerequisites for installing the Debian Package
 
 ```
-  sudo apt-get install libfftw3-3
-  sudo apt-get install libpulse
-  sudo apt-get install libsoundio
-  sudo apt-get install libasound2
-  sudo apt-get install libsoapysdr
+  sudo apt-get install libfftw3-3 libpulse libsoundio libasound2 libsoapysdr
 ```
 
 
