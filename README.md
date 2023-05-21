@@ -2,7 +2,7 @@
 
 ### Goals of this particular fork
 
-* Fixing open issues by peeking into G0ORX's repository and others pull requests
+* Fixing open issues by peeking into G0ORX's repository and other users pull requests
 * Some redesign of the GUI
 
 ### Development environment
